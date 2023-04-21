@@ -53,9 +53,11 @@ IN WITNESS WHEREOF, the parties have executed this Agreement as of the date firs
 ___
 
 ##### Team Member Name: __________________________      
-##### Team Member Signature: _____________________  Date: ______________    
+##### Team Member Signature: _____________________  
+##### Date: ______________    
 
 ___
 
 ##### Product Owner Name: ________________________  
-##### Product Owner Signature: _________________________  Date: ______________
+##### Product Owner Signature: _________________________  
+##### Date: ______________
