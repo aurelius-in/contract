@@ -9,7 +9,7 @@ This Success Incentivised Compensation Contract ("Agreement") is made and entere
 
 ### RECITALS
 
-WHEREAS, the Company desires to engage the services of the Team Member in connection with the development of mobile applications ("App"); and
+WHEREAS, the Product Owmer desires to engage the services of the Team Member in connection with the development of mobile applications ("App"); and
 
 WHEREAS, the Team Member desires to provide certain services in connection with the development of the App; and
 
@@ -52,8 +52,10 @@ IN WITNESS WHEREOF, the parties have executed this Agreement as of the date firs
 
 ___
 
-##### Team Member Name: ______________.  Team Member Signature: _________________  Date: ___________    
+##### Team Member Name: __________________________      
+##### Team Member Signature: _____________________  Date: ______________    
 
 ___
 
-##### Product Owner Name: ______________.  Product Owner Signature: _________________  Date: ___________
+##### Product Owner Name: ________________________  
+##### Product Owner Signature: _________________________  Date: ______________
