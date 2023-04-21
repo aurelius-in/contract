@@ -64,13 +64,13 @@ ___
 
 ##### Team Member Name: __________________________      
 
-##### Team Member Signature: _____________________  
+##### Team Member Signature: ______________________  
 
 ##### Date: ______________    
 
 ___
 
-##### Product Owner Name: ________________________  
+##### Product Owner Name: __________________________  
 
 ##### Product Owner Signature: ______________________  
 
