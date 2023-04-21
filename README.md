@@ -1,37 +1,6 @@
-# SUCCESS INCENTIVISED COMPENSATION CONTRACT
+ CONTRACT
 
-This Success Incentivised Compensation Contract ("Agreement") is made and entered into as of [DATE], by and between [TEAM MEMBER NAME] ("Team Member"), and [YOUR NAME] ("Company").
-
-## RECITALS
-
-WHEREAS, the Company desires to engage the services of the Team Member in connection with the development of mobile applications ("Apps"); and
-
-WHEREAS, the Team Member desires to provide certain services to the Company in connection with the development of the Apps; and
-
-WHEREAS, the parties desire to establish a compensation arrangement that will incentivize the Team Member to contribute significantly to the success of the Apps.
-
-NOW, THEREFORE, in consideration of the mutual promises contained herein, the parties agree as follows:
-
-## COMPENSATION
-
-In consideration of the Team Member's services rendered under this Agreement, the Company agrees to pay to the Team Member the following success incentivised compensation:
-
-- 1% of revenue for sales up to $25,000;
-- 2% of revenue for sales up to $50,000;
-- 3% of revenue for sales up to $75,000;
-- 4% of revenue for sales up to $100,000; and
-- 5% of revenue for sales over $100,000.
-
-The term "revenue" as used herein means the gross revenue derived from the sale of the Apps less any refunds, chargebacks, and credit card processing fees.
-
-## TERM AND TERMINATION
-
-This Agreement shall commence as of the date first above written and shall continue until the Apps are no longer available for sale. Either party may terminate this Agreement at any time for any reason upon written notice to the other party.
-
-## INTELLECTUAL PROPERTY
-## SUCCESS INCENTIVISED COMPENSATION CONTRACT
-
-This Success Incentivised Compensation Contract ("Agreement") is made and entered into as of [DATE], by and between [TEAM MEMBER NAME] ("Team Member"), and [YOUR NAME] ("Company").
+This Success Incentivised Compensation Contract ("Agreement") is made and entered into as of ______, by and between ____________ ("Team Member"), and _____________ ("Product Owwner").
 
 ## RECITALS
 
@@ -41,9 +10,8 @@ WHEREAS, the Team Member desires to provide certain services to the Company in c
 
 WHEREAS, the parties desire to establish a compensation arrangement that will incentivize the Team Member to contribute significantly to the success of the Apps.
 
-NOW, THEREFORE, in consideration of the mutual promises contained herein, the parties agree as follows:
 
-## COMPENSATION
+## SUCCESS INCENTIVISED COMPENSATION 
 
 In consideration of the Team Member's services rendered under this Agreement, the Company agrees to pay to the Team Member the following success incentivised compensation:
 
