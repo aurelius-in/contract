@@ -5,7 +5,7 @@
 
 ##### Mobile Product in Development: ___________________________ ("App").
 
-This Success Incentivised Compensation Contract ("Agreement") is made and entered into as of ______, by and between ____________ ("Team Member"), and _____________ ("Product Owwner").
+This Success Incentivised Compensation Contract ("Agreement") is made and entered into as of ______, by and between ____________ ("Team Member"), and _____________ ("Product Owner").
 
 ### RECITALS
 
