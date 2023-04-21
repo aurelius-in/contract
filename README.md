@@ -97,11 +97,8 @@ This Agreement constitutes the entire agreement between the parties and supersed
 IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first above written.
 
 
-_________________________                    ______________________________
-######     [TEAM MEMBER NAME]                                  [PRODUCT OWNER NAME]
+##### ______________                ______________
+#####     [TEAM MEMBER NAME]                                  [PRODUCT OWNER NAME]
 
-
-
-_________________________       _________    ______________________________ _______
-
-######      Signature            Date                        Signature             Date
+##### ______________                ______________
+#####      Signature            Date                        Signature             Date
