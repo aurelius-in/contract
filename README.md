@@ -20,11 +20,11 @@ WHEREAS, the parties desire to establish a compensation arrangement that will in
 
 In consideration of the Team Member's services rendered under this Agreement, the Company agrees to pay to the Team Member the following success incentivised compensation:
 
-- 1% of revenue for sales up to $25,000;
-- 2% of revenue for sales up to $50,000;
-- 3% of revenue for sales up to $75,000;
-- 4% of revenue for sales up to $100,000; and
-- 5% of revenue for sales over $100,000.
+- 1% of revenue for sales up to $2,500;
+- 2% of revenue for sales up to $5,000;
+- 3% of revenue for sales up to $7,500;
+- 4% of revenue for sales up to $10,000; and
+- 5% of revenue for sales over $10,000.
 
 The term "revenue" as used herein means the gross revenue derived from the sale of the Apps less any refunds, chargebacks, and credit card processing fees.
 
