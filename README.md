@@ -29,26 +29,7 @@ The term "revenue" as used herein means the gross revenue derived from the sale 
 This Agreement shall commence as of the date first above written and shall continue until the Apps are no longer available for sale. Either party may terminate this Agreement at any time for any reason upon written notice to the other party.
 
 ## INTELLECTUAL PROPERTY
-
-All intellectual property created by the Team Member in connection with the development of the Apps shall be owned exclusively by the Company. The Team Member agrees to execute any documents reasonably necessary to perfect the Company's ownership of such intellectual property.
-
-## CONFIDENTIALITY
-
-The Team Member shall maintain the confidentiality of all proprietary or confidential information of the Company, including but not limited to the ps, customer lists, marketing strategies, and financial information. The Team Member shall not use such information for any purpose other than as necessary to perform services under this Agreement.
-
-## INDEPENDENT CONTRACTOR
-
-The Team Member shall perform all services under this Agreement as an independent contractor. The Team Member shall not be considered an employee of the Company for any purpose.
-
-## MISCELLANEOUS
-
-This Agreement constitutes the entire agreement between the parties and supersedes all prior agreements, representations, and understandings between the parties. This Agreement may not be amended or modified except in writing signed by both parties. This Agreement shall be binding upon and inure to the benefit of the parties and their respective successors and assigns. This Agreement shall be governed by and construed in accordance with the laws of [STATE/PROVINCE]. Any disputes arising under this Agreement shall be resolved in the courts of [STATE/PROVINCE].
-
-IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first above written.
-
-______________________________              ______________________________
-[TEAM MEMBER NAME]                                     [YOUR NAME]
-# SUCCESS INCENTIVISED COMPENSATION CONTRACT
+## SUCCESS INCENTIVISED COMPENSATION CONTRACT
 
 This Success Incentivised Compensation Contract ("Agreement") is made and entered into as of [DATE], by and between [TEAM MEMBER NAME] ("Team Member"), and [YOUR NAME] ("Company").
 
