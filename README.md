@@ -3,17 +3,17 @@
 ###### Developers, artists and other members may agree to contribute to the success of:
 
 
-##### Mobile Product in Development: ___________________________
+##### Mobile Product in Development: ___________________________ ("App").
 
 This Success Incentivised Compensation Contract ("Agreement") is made and entered into as of ______, by and between ____________ ("Team Member"), and _____________ ("Product Owwner").
 
 ### RECITALS
 
-WHEREAS, the Company desires to engage the services of the Team Member in connection with the development of mobile applications ("Apps"); and
+WHEREAS, the Company desires to engage the services of the Team Member in connection with the development of mobile applications ("App"); and
 
-WHEREAS, the Team Member desires to provide certain services to the Company in connection with the development of the Apps; and
+WHEREAS, the Team Member desires to provide certain services in connection with the development of the App; and
 
-WHEREAS, the parties desire to establish a compensation arrangement that will incentivize the Team Member to contribute significantly to the success of the Apps.
+WHEREAS, the parties desire to establish a compensation arrangement that will incentivize the Team Member to contribute significantly to the success of the App.
 
 
 ### SUCCESS INCENTIVISED COMPENSATION 
@@ -34,15 +34,15 @@ This Agreement shall commence as of the date first above written and shall conti
 
 ### INTELLECTUAL PROPERTY
 
-All intellectual property created by the Team Member in connection with the development of the Apps shall be owned exclusively by the Company. The Team Member agrees to execute any documents reasonably necessary to perfect the Company's ownership of such intellectual property.
+All intellectual property created by the Team Member in connection with the development of the App shall be owned exclusively by the Product Owner. The Team Member agrees to execute any documents reasonably necessary to perfect the Company's ownership of such intellectual property.
 
 ### CONFIDENTIALITY
 
-The Team Member shall maintain the confidentiality of all proprietary or confidential information of the Company, including but not limited to the Apps, customer lists, marketing strategies, and financial information. The Team Member shall not use such information for any purpose other than as necessary to perform services under this Agreement.
+The Team Member shall maintain the confidentiality of all proprietary or confidential information of the Peoduct Owner, including but not limited to the App, customer lists, marketing strategies, and financial information. The Team Member shall not use such information for any purpose other than as necessary to perform services under this Agreement.
 
 ### INDEPENDENT CONTRACTOR
 
-The Team Member shall perform all services under this Agreement as an independent contractor. The Team Member shall not be considered an employee of the Company for any purpose.
+The Team Member shall perform all services under this Agreement as an independent contractor. The Team Member shall not be considered an employee of the Product Owner for any purpose.
 
 ### MISCELLANEOUS
 
@@ -50,6 +50,7 @@ This Agreement constitutes the entire agreement between the parties and supersed
 
 IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first above written.
 
+___
 
 ##### Team Member Name: ______________.  Team Member Signature: _________________  Date: ___________    
 
