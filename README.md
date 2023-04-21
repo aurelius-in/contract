@@ -32,6 +32,16 @@ The term "revenue" as used herein means the gross revenue derived from the sale 
 
 This Agreement shall commence as of the date first above written and shall continue until the Apps are no longer available for sale. Either party may terminate this Agreement at any time for any reason upon written notice to the other party.
 
+### EARLY TERMINATION
+
+If this Agreement is terminated by either party before the release of the App, or before revenue is earned, the following compensation will apply:
+
+- For team members with standing contracts of less than 3 months, compensation will be set at the minimum tier of 1% of revenue as outlined in the "Success Incentivised Compensation" section above.
+- For team members with standing contracts of more than 3 months but less than 6 months, compensation will be limited to the 2% tier of revenue as outlined in the "Success Incentivised Compensation" section above.
+- For team members with standing contracts of 6 months or more, the compensation will follow the "Success Incentivised Compensation" section above.
+
+In the event of early termination, the team member's compensation for services rendered up to the date of termination will be calculated based on the compensation rates outlined above. The Product Owner will have no further obligation to the team member after the date of termination.
+
 ### INTELLECTUAL PROPERTY
 
 All intellectual property created by the Team Member in connection with the development of the App shall be owned exclusively by the Product Owner. The Team Member agrees to execute any documents reasonably necessary to perfect the Company's ownership of such intellectual property.
@@ -53,11 +63,15 @@ IN WITNESS WHEREOF, the parties have executed this Agreement as of the date firs
 ___
 
 ##### Team Member Name: __________________________      
+
 ##### Team Member Signature: _____________________  
+
 ##### Date: ______________    
 
 ___
 
 ##### Product Owner Name: ________________________  
+
 ##### Product Owner Signature: _________________________  
+
 ##### Date: ______________
