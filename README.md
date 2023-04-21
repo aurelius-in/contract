@@ -72,6 +72,6 @@ ___
 
 ##### Product Owner Name: ________________________  
 
-##### Product Owner Signature: _________________________  
+##### Product Owner Signature: ______________________  
 
 ##### Date: ______________
